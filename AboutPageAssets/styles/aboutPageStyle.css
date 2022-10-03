@@ -397,4 +397,7 @@ footer .footerNote {
 	margin-right: 3%;
 	font-family: sans-serif;
 }
+img {
+  border-radius: 50%;
+}
 }
